@@ -1,4 +1,4 @@
-button-container{
+.button-container{
     display: flex;
     justify-content: center;
    
@@ -9,8 +9,8 @@ button-container{
 button{
     width: 400px;
     height:400px;
-    margin:200px;
     box-shadow:5px 5px 5px red;
+    margin-top: 50px;
     transition: 1s;
     
 }
